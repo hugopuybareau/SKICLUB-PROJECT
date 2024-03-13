@@ -1,0 +1,94 @@
+Salut la ziz, 
+
+Je vais écrire dans ce document tous les trucs qui vont être importants à savoir
+pour que ton année de CM se passe bien. 
+
+Premier truc, il faut que tu t'occupes de mettre à jour les inventaires le plus tôt
+possible si tu veux avoir le temps de faire des commandes pour l'année prochaine. Au
+moment où tu fais ça, tu dois aussi mettre rapidement à jour le Catalogue Canva qui sert
+pour les SG. C'est pas très long si y'a que des changements mineurs. 
+
+Pour cela, tu as le sheet Inventaire dans le drive, faut juste cocher des cases c'est
+pas compliqué, tu devrais t'en sortir. 
+
+Quand tu t'occupes de mettre à jour ce sheet, mets aussi à jour le fichier 'inv_prog.csv'
+parce que tu vas en avoir besoin pour faire marcher le code dont je vais te parler dans
+la suite du document. 
+
+Par rapport aux commandes du matériel, je te mets dans le dossier le compte rendu de 
+l'inventaire de l'an dernier. En vrai, tout est toujours valable, essaie de refaire 
+le même document pour une potentiel réunion avec le BDS. Au passage, je te conseil
+de ne rien racheter tant que vous avez pas plus de place dans le local. 
+
+Pour l'organisation de base de l'asso, le mieux c'est que t'ailles en perm le plus
+souvent possible au début. De toutes façons y'en a pas entre Avril et Décembre donc
+tu vas pas non plus être hyper occupé. 
+Essaie de faire faire des trucs assez rapidement à tes VP parce que l'an dernier je
+leur ai rien demandé et au final j'ai toujours tout fait tout seul donc c'était pas le 
+top. 
+Fais farter/affuter les skis experts avant la saison prochaine. Si tu sais pas faire, 
+tu cherches une vidéo YTB c'est vraiment pas compliqué. 
+Essaie de ranger les bâtons et de trouver un système de numérotation parce que c'est 
+un enfer absolu ces trucs. 
+Le plus important c'est que tu brieffes bien tous les gens de l'asso sur la manière de
+ranger le local. Il suffit d'un fils de pute qui fait pas attention et qui posent les 
+trucs n'importe où pour que ça parte en couille en 3 jours. 
+
+Pour les gros évenements : 
+    - Il est parfois rentable de louer un camion plutôt que de foutre des remorques sur 
+    les bus, pensez à vérifier avant de signer les contrats. 
+    - Je te conseil de toujours prendre 2 semaines d'avance pour faire le SG du matériel. 
+    - Oublie pas que je t'ai fait un template parfait pour le SG où tout est bien écrit.
+    T'as juste à update les infos qui sont spécifiques à l'évenement c'est vraiment pas 
+    compliqué. 
+    - Une fois que le SG est fait, tu DL le excel récapitulatif en 'CSV', puis tu lances
+    le code en ayant bien lu les notes que j'ai écrites dans ce dernier. Si tu l'as pas 
+    déjà, télecharge l'extension 'RAINBOW CSV' de Visual Studio c'est plutôt util.
+    - Pour modifier la plage de taille sur la quelle des skis peuvent être attribués,
+    tu vas ligne 124 et tu peux changer. Par défaut j'ai mis 10cm, à toi de voir comment
+    tu veux faire les choses. 
+    - Une fois que t'as fait ça, le code te pond un xlsx, tu le poses sur le Drive et tu 
+    le rends beau pour que ça soit plus facile à lire en fonction de ce que t'aimes. 
+    Quand y'a des x c'est que c'est pas attribué... Tu regardes ce que j'ai fait dans les 
+    archives si tu sais pas comment t'y prendre mais bon t'as l'air un peu plus malin que 
+    moi donc ça devrait aller. 
+    - Le truc le plus chiant que tu peux peut-être automatiser c'est de devoir DM tous les 
+    gens qui ont pas eu tout ce qu'ils voulaient au SG. 
+    - Un truc important, une semaine avant le SG du matériel, dis aux gens de passer tester
+    la taille des chaussures parce que c'est un enfer si y'en a qui veulent changer une fois 
+    que t'as fait l'attribution. 
+    - Avant le départ envoie un sheet simplifié où les gens peuvent regarder eux mêmes la
+    numérotation de leur matériel comme ça ils sont un peu plus autonomes. 
+    - Quand t'es sur place, fixe une heure après la quelle le matériel ne sera plus réglés/
+    ajusté en cas de problème sinon y'a des connards qui vont te casser les couilles toutes 
+    les 15 minutes. 
+    - Demande à ton VP partenariat de contacter un loueur sur la station pour proposer des 
+    réductions sur place aux gens qui auront pas tout eu au SG. 
+
+Voilà, c'est pas plus compliqué que ça en vrai. Si t'as des questions n'hésite surtout pas. 
+Bon courage pour l'année même si tu devrais logiquement t'en sortir comme un chef. Désolé 
+pour les fautes d'orthographe, j'ai pas pris le temps de me relire. 
+
+Pour les messages : 
+
+'Salut, je suis la personne qui s’occupe de l’attribution du matériel après le shotgun de la strmaine. Je t’envoie ce message pour te dire que parmi les choses que tu as demandées tu n’as pas eu :
+
+Les skis
+Le snowboard
+Les chaussures
+Le casque 
+
+Pas de panique, on est en relation avec un loueur de matériel sur la station chez qui tu auras une réduction. Des précisions seront apportées à ce sujet sur le groupe Messenger de l’évènement dans les jours qui suivent'
+
+
+'Salut, j’ai contacté tous les gens qui n’ont pas eu de matériel après le SG donc regardez bien vos demandes de messages. Si vous n’avez rien reçu c’est que vous avez tout ce que vous avez demandé ! 
+
+Normalement, on devrait avoir un partenariat avec un magasin de location sur la station qui vous fera des réductions. Je vous préciserai le loueur en question dans la semaine.
+
+C’est possible que du matériel revienne encore au local dans les prochains jours, je vous contacterai en DM pour vous prévenir s’il vous est attribué. Bonne soirée
+
+'Salut, on s’est occupé du partenariat en station ! 
+Il faudra donc aller au magasin SKIMIUM de Risoul le dimanche matin entre 8h et 8h30, avant l’ouverture du magasin. On a 30% de réduction pour les gens de Centrale donc pour les tarifs sur la semaine ça donne :'
+	
+
+
